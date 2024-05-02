@@ -1,4 +1,6 @@
 # Prediction (French Below)
+Read the article : report.pdf
+
 you will find in this github our codes using the following templates: 
 
 Template / Document / Score
@@ -28,6 +30,8 @@ Model Partial completion / code_minimal_xgboost.r
 
 
 # Prediction
+L'article dans cette étude est : report.pdf
+
 vous trouverez dans ce github nos codes utilisant les modèles suivant: 
 
 Modèle / Document / Score
